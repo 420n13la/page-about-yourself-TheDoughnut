@@ -1,0 +1,26 @@
+<style>
+
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+
+body {
+  background-color: green;
+}
+
+h1 {
+	border: 5px solid orange
+  color: red;
+  text-align: center;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+h2 {
+	border: solid yellow
+  color: orange;
+  text-align: left;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+p {
+  font-size: 24px;
+}
+</style>
