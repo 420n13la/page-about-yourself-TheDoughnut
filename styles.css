@@ -23,4 +23,11 @@ h2 {
 p {
   font-size: 24px;
 }
+
+img {
+  width: 480px;
+}
+
+<img src="1200px-Windows_Logo_1995.svg.png" alt="Windows">
+
 </style>
