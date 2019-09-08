@@ -25,8 +25,8 @@ p {
 }
 
 img {
-  width: 480px;
-  <img src="1200px-Windows_Logo_1995.svg.png" alt="Windows">
+  
+  <img src="1200px-Windows_Logo_1995.svg.png" alt="Windows" width: 240px;>
 }
 
 
